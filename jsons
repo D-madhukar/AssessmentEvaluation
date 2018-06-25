@@ -1,0 +1,24 @@
+
+[{"_id":"5b166fe5893b7841e0019c36","assessmentPos
+t":"5b166c28893b7841e0019c29","user":"5b162ff9893
+b7841e0019bbd","assessment":"5b166c08893b7841e001
+9c21","type":"TF","status":"correct","timeSpent":
+8,"answer":"false","post":"5b166fc8893b7841e0019c
+31","created_by":"5b162ff9893b7841e0019bbd","opti
+ons":[]},{"_id":"5b166fe5893b7841e0019c37","asses
+smentPost":"5b166c28893b7841e0019c29","user":"5b1
+62ff9893b7841e0019bbd","assessment":"5b166c08893b
+7841e0019c22","type":"SA","status":"not answered"
+,"timeSpent":5,"post":"5b166fc8893b7841e0019c31",
+"created_by":"5b162ff9893b7841e0019bbd","options"
+:[]},{"_id":"5b166fe5893b7841e0019c38","assessmen
+tPost":"5b166c28893b7841e0019c29","user":"5b162ff
+9893b7841e0019bbd","assessment":"5b166c1c893b7841
+e0019c24","type":"MC","status":"not correct","tim
+eSpent":12,"post":"5b166fc8893b7841e0019c31","cre
+ated_by":"5b162ff9893b7841e0019bbd","options":[{"
+seqno":"A","text":"1","answer":false,"isanswer":f
+alse},{"seqno":"B","text":"2","answer":false,"isa
+nswer":true},{"seqno":"C","text":"3","answer":fal
+se,"isanswer":false},{"seqno":"D","text":"4","ans
+wer":true,"isanswer":false}]}]
