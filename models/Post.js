@@ -3,7 +3,7 @@ mongoose.connect("mongodb://localhost/test");
 var Schema=mongoose.Schema;
 var PostSchema = new Schema(
   {
-    // _id:String,  
+    // _id:String,
     type: {
       type: String,
       enum: [
@@ -63,6 +63,7 @@ var PostSchema = new Schema(
       status: { type: String, enum: ["fail", "success"] },
       timeSpent: Number, //Seconds,
       attempts: { type: Number, default: 1 }
+      score:Number
     },
 
     poll: {
